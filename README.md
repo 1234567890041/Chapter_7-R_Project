@@ -1,47 +1,4 @@
-# The GECO R project template
-
-This is a github template for a GECO R project repository. This template can
-be loaded when creating a new project in github. As such you pre-populate a
-project with a standard set of directories. This ensures a project-oriented 
-and consistent workflow across all lab members, and removes some of the mental
-overhead in making decisions on a project structure.
-
-It must be noted that some of the functionality as provided by this setup is
-included in the [`usethis`](https://usethis.r-lib.org/) R package, the aim is 
-slightly different. For one, `usethis` is aimed at populating a package structure.
-Second, there is not preset full template, hence many individual decisions still
-need to be made and code executed. This is bypassed by this setup.
-
-## Use
-
-### A github project from the template
-
-To use the template create a new repository on github, as you otherwise would
-using the big green button. If you are in the project on github you can hit
-the green button top right (Use this template).
-
-![](https://github.com/bluegreen-labs/environmental_data_science_101/raw/main/images/green_button.png)
-
-Otherwise you can select the repository from the template dropdown menu, select `geco-bern/R-project-template`.
-
-![](https://github.com/bluegreen-labs/environmental_data_science_101/raw/main/images/new_repo_1.png)
-
-Proceed as usual by naming your repository. However, be careful to select the 
-correct owner of the project if you have multiple identities.
-![](https://github.com/bluegreen-labs/environmental_data_science_101/raw/main/images/new_repo_2.png)
-
-### Clone to your local computer
-
-The new repository will be created and populated with the files of the template.
-You can then clone the project to your local computer to add files.
-
-Although optional it is wise to rename the `*.Proj` file as this will not
-automatically change to your repository name. However, retaining the original
-name should not change any of the functionality.
-
-```bash
-git clone git@github.com:USER/YOUR_PROJECT.git
-```
+# R Project for Chapter 7 Report Exercise
 
 ## Structure
 
