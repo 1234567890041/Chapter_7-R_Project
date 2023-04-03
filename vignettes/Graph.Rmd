@@ -1,0 +1,6 @@
+```{r}
+x <- seq(0, 10, by = 0.1)
+plot(x, sin(x), type = "l", col = "red")
+lines(x, cos(x), col = "blue")
+```
+
